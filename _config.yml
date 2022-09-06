@@ -1,0 +1,7 @@
+title: EvanPei's Blog
+author: EvanPei
+language: zh-CN
+
+permalink: :year/:month/:day/:title.html
+
+theme: hacker
