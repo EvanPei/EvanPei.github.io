@@ -20,6 +20,6 @@
     "hexo-renderer-marked": "^5.0.0",
     "hexo-renderer-stylus": "^2.1.0",
     "hexo-server": "^3.0.0",
-    "luxon": "^3.0.3"
+    "luxon": "^3.2.1"
   }
 }
